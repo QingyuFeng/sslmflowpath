@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mvoutlet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32651" } },
+"features": [
+{ "type": "Feature", "properties": { "Dist_moved": 2 }, "geometry": { "type": "Point", "coordinates": [ 573210.93098130566068, 4573271.262514349073172 ] } }
+]
+}

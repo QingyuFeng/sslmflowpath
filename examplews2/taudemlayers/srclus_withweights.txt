@@ -1,0 +1,2 @@
+Source land uses, weights
+10,0.8

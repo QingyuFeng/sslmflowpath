@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{8ee48615-0d1a-47bc-b6f3-6621e0449fc4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\sourcecode\sslmfpsubws\commonLib.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sourcecode\sslmfpsubws\tiffIO.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sourcecode\sslmfpsubws\dist2subolt.cpp" />
+    <ClCompile Include="..\..\sourcecode\sslmfpsubws\dist2suboltmn.cpp" />
+  </ItemGroup>
+</Project>
