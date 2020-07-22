@@ -1,4 +1,0 @@
-Sink land uses, weights
-20,0.8
-30,0.9
-80,0.7

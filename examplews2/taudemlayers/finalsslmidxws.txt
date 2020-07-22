@@ -1,4 +1,0 @@
-LWLI for elevation,0.067715
-LWLI for distance,0.080439
-LWLI for slope,0.040242
-LWLI combined,0.135353
